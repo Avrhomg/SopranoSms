@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sms>
+<account>
+<id>user_name</id>
+<password>password</password>
+</account>
+<attributes>
+<reference>123</reference>
+<replyPath>0521111111</replyPath>
+</attributes>
+<schedule>
+<relative>0</relative>
+</schedule>
+<targets>
+<cellphone reference="3542">972525524056</cellphone>
+</targets>
+<data>hi hih hi</data>
+</sms>

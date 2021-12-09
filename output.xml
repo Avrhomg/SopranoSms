@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<sms>
+  <account>
+    <id>Tests1</id>
+    <password>te1234</password>
+  </account>
+  <attributes>
+    <reference>123</reference>
+    <replyPath>97252111111</replyPath>
+  </attributes>
+  <schedule>
+    <relative>0</relative>
+  </schedule>
+  <targets>
+    <cellphone reference="0">972525524056</cellphone>
+    <cellphone reference="1">0</cellphone>
+    <cellphone reference="2">0</cellphone>
+    <cellphone reference="3">0</cellphone>
+    <cellphone reference="4">0</cellphone>
+  </targets>
+  <data>&#1504;&#1497;&#1505;&#1493;&#1497; &#1493;&#1514;&#1506;&#1497;&#1497;&#1492;</data>
+</sms>
